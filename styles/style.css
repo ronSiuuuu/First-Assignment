@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+.navbar button {
+    color: #006A50;
+  border-radius: 10px;
+  border: 1px solid #006A50;
+  height: 30px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+.navbar h1{
+    font-weight: bold;
+}
+
+/* hero */
+#hero{
+    background-color: #C6E4D6;
+    display: flex;
+    justify-content: space-between;
+    width: 1280px;
+    height: 560px;
+    padding: 80px 100px;
+}
+#hero-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+}
+.hero-btn{
+    background-color: #006A50;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-weight: 500px;
+    padding: 17px 34px;
+}
+.title{
+    font-size: 25px;
+    font-weight: bold;
+}
+.sub-title{
+    opacity: 50%;
+    font-size: 24px;
+}
