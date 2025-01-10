@@ -53,3 +53,60 @@
     opacity: 50%;
     font-size: 24px;
 }
+/* card */
+
+.card{
+    display: flex;
+    gap: 10px;
+    /* padding: 120px 32px 97px 32px; */
+   
+   
+    
+}
+.card1{
+background-color: #548ff52d;
+padding: 32px;
+border-radius: 16px;
+}
+.btn1{
+background-color: #5490F5;
+color: white;
+font-weight: bold;
+border: none;
+border-radius: 8px;
+padding: 11px;
+}
+.card2{
+    background-color: #C6E4D6;
+    padding: 32px;
+    border-radius: 16px;
+
+}
+.btn2{
+    background-color: #09A15C;
+    color: white;
+    font-weight: bold;
+    border: none;
+border-radius: 8px;
+padding: 11px;
+}
+.card3{
+    background-color: #F7EBCF;
+    padding: 32px;
+    border-radius: 16px;
+}
+.btn3{
+    background-color: #FFC239;
+    color: white;
+    font-weight: bold;
+    border: none;
+border-radius: 8px;
+padding: 11px;
+}
+.card-text h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+.card-text p{
+    opacity: 70%;
+}
