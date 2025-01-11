@@ -259,16 +259,17 @@ font-weight: 600px;
 } */
 .donate-option input[type="text"]{
    
-    width: 1032px;
+    width: 900px;
     height: 64px;
     background-color: #FFFFFF;
    text-align: center;
    border: none;
   font-size: 20px;
-  margin-left: 80px;
+  margin-left: 120px;
 }
 .donate-option{
     margin-top: 32px;
+   
 }
 .donate-text{
     text-align: center;
@@ -331,6 +332,7 @@ border-radius: 10px 0px 0px 10px;
 .center{
     text-align: center;
     opacity: 70%;
+    margin-bottom: 80px;
 }
  .align{
     display: flex;
